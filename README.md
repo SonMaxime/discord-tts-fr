@@ -1,5 +1,5 @@
 # discord-tts
-Node.js module to make your discord bot talk
+Node.js module to make your discord bot talk but in French. 
 
 
 
