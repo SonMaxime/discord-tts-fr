@@ -7,7 +7,7 @@ Node.js module to make your discord bot talk
 ```js
 const secret = require("./secret.json"); //file with your bot credentials/token/etc
 const discord = require("discord.js");
-const discordTTS=require("discord-tts");
+const discordTTS=require("discord-tts-fr");
 const client = new discord.Client();
 client.login(secret.token);
 
